@@ -1,0 +1,15 @@
+Z:\MyData\dot-net-console-programs\obj\Debug\net7.0\dot-net-console-programs.csproj.AssemblyReference.cache
+Z:\MyData\dot-net-console-programs\obj\Debug\net7.0\dot-net-console-programs.GeneratedMSBuildEditorConfig.editorconfig
+Z:\MyData\dot-net-console-programs\obj\Debug\net7.0\dot-net-console-programs.AssemblyInfoInputs.cache
+Z:\MyData\dot-net-console-programs\obj\Debug\net7.0\dot-net-console-programs.AssemblyInfo.cs
+Z:\MyData\dot-net-console-programs\obj\Debug\net7.0\dot-net-console-programs.csproj.CoreCompileInputs.cache
+Z:\MyData\dot-net-console-programs\bin\Debug\net7.0\dot-net-console-programs.exe
+Z:\MyData\dot-net-console-programs\bin\Debug\net7.0\dot-net-console-programs.deps.json
+Z:\MyData\dot-net-console-programs\bin\Debug\net7.0\dot-net-console-programs.runtimeconfig.json
+Z:\MyData\dot-net-console-programs\bin\Debug\net7.0\dot-net-console-programs.dll
+Z:\MyData\dot-net-console-programs\bin\Debug\net7.0\dot-net-console-programs.pdb
+Z:\MyData\dot-net-console-programs\obj\Debug\net7.0\dot-net-console-programs.dll
+Z:\MyData\dot-net-console-programs\obj\Debug\net7.0\refint\dot-net-console-programs.dll
+Z:\MyData\dot-net-console-programs\obj\Debug\net7.0\dot-net-console-programs.pdb
+Z:\MyData\dot-net-console-programs\obj\Debug\net7.0\dot-net-console-programs.genruntimeconfig.cache
+Z:\MyData\dot-net-console-programs\obj\Debug\net7.0\ref\dot-net-console-programs.dll
